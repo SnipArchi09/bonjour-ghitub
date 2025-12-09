@@ -1,2 +1,2 @@
 # bonjour-ghitub
-Mon premier dépôt pour apprendre GitHub
+Ceci est mon premier dépôt. Je suis en train d'apprendre GitHub !
